@@ -1,0 +1,4 @@
+#Tue Nov 02 20:17:18 IST 2021
+base.0=/home/shinjinee/AndroidStudioProjects/recommendation_sy_stem/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

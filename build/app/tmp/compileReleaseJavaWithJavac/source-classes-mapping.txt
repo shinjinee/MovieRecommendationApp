@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/recommendation_sy_stem/BuildConfig.java
+ com.example.recommendation_sy_stem.BuildConfig
